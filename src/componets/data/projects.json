@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Landing Page",
+      "imageSrc": "projects/landingpage.png",
+      "description": "This is  a Landing Page for a Eductional Platform helped me learn basic of web dev.",
+      "skills": ["Html", "Css"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/yashkagra/landing_page"
+    },
+    {
+      "title": "Weather Api",
+      "imageSrc": "projects/weather_api.png",
+      "description": "This is a Weather Api to learn the latest languages by building an app.",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/yashkagra/weather_api"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "This is a Portfolio Website made to show my works and skills .",
+      "skills": ["Html", "Css", "Javascript", "React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/yashkagra/portfolio"
+    }
+  ]
